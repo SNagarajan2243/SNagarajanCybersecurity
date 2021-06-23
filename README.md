@@ -1,2 +1,1 @@
-# cybersecurity-bootcamp Notebooks
-By Harsh Akshit
+# cybersecurity-bootcamp 
